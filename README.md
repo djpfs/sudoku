@@ -1,6 +1,18 @@
-# Nuxt 3 Minimal Starter
+# Sudoku
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+A sudoku game made with Nuxt.js and Tailwind CSS.
+
+<!-- Insert image -->
+<div style="width: 100%; display: flex; justify-content: center;">
+  <img src="./docs/img/home.png" alt="Home" width="400px" style="margin-right: 10px" />
+  <img src="./docs/img/game.png" alt="Game" width="400px" style="margin-left: 10px"/>
+</div>
+
+Lide preview: [https://sudoku-psi-sepia.vercel.app](https://sudoku-psi-sepia.vercel.app)
+
+## Using
+
+sudoku-gen: [https://www.npmjs.com/package/sudoku-gen](https://www.npmjs.com/package/sudoku-gen)
 
 ## Setup
 
